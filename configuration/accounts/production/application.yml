@@ -1,8 +1,8 @@
 server:
   port: 7777
-properties:
+accounts:
   datasource:
     url: jdbc:mysql://localhost:3306/kodilla_accounts?serverTimezone=Europe/Warsaw&useSSL=False
     username: kodilla_user
     password: kodilla_password
-    allow-get-accounts: false
+  allow-get-accounts: false
