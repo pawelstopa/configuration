@@ -1,0 +1,4 @@
+customer:
+  datasource:
+    username: kodilla_user_customer
+    password: kodilla_password_customer
