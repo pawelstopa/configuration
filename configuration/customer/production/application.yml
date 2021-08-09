@@ -1,3 +1,5 @@
+server:
+  port: 8083
 customer:
   datasource:
     username: kodilla_user_customer
