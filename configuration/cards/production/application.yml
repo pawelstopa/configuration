@@ -1,0 +1,5 @@
+cards:
+  datasource:
+    url: jdbc:mysql://localhost:3306/kodilla_cards?serverTimezone=Europe/Warsaw&useSSL=False
+    username: kodilla_user
+    password: kodilla_password
